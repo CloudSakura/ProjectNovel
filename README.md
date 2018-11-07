@@ -1,6 +1,8 @@
 # ProjectNovel
 Project of creating a light novel.
 
+Isekai ni Tensei Sarechatta, ga Orc ni Natta!
+
 Temporary Title:
 "Reborn in a Fantasy World as an Orc"
 
