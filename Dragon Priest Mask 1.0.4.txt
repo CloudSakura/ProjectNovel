@@ -1,0 +1,62 @@
+Dragon Priest Mask
+
+-a mask that used by Dragon Priest.
+-made from the wood of world tree
+-personally carved and adorned by Alduin himself
+-there are only 12 examples of them
+-5 of them are under Paladin care.
+-one of them given to Demon Lord by Alduin himself
+-the rest of the mask still with their original owner
+-each mask have their own unique attributes, mainly boosting attributes.
+
+List of Mask and ablities.
+1. Mask of Despair (held by Meerak)
+	>Deactivate all nearby Masks' Abilities.
+
+2. Mask of Avarice (held by Syndicate Boss)
+	+10% Lifesteal
+	+20% Spellvamp
+	>Provides 50% Bonus Lifesteal When User at Low HP
+
+3. Mask of Fury (held by King of Magyar, a Paladin)
+	+20% Critical Chance
+	+30% Critical Damage
+	>Critical Hit Increase User Attack Speed by 20% For 3 Seconds.
+
+4. Mask of Lust (later will be held by Luna)
+	+1% Attack/Casting Speed For Every Nearby Enemies (Stacks up to 80%)
+	>Enhance All Nearby Masks' Abilities.
+
+5. Mask of Glutton (held by Syndicate Boss)
+	>Increase HP by 20%
+	>Heal User by 10% of Damage Taken
+
+6. Mask of Pride
+	+15% Damage
+	>Damage Increase by 1% For Every 10 Minutes (Effect Disappear After Battle)
+
+7. Mask of Wisdom (held by William)
+	+10% Damage Resistance
+	+20% Magic Resistance
+	>Reduce Critical Damage by 20%
+
+8. Mask of Night (held by Aryanic King's Personal Guard, Aztrid)
+	+10% Evasion
+	+20% Movement Speed
+	>Increase User's Stealth by 20% During Night
+
+9. Mask of Day (held at Temple of Lyra, current Paladin searching for new holder)
+	+10% to All Stats During Day
+	>Reduce Crowd Control and Debuff Effect by 20%
+
+10. Mask of Element (held by headmaster of Oxidford, a Paladin)
+	-20% Channeling Time
+	+20% Magic Damage
+	>Increase Mana Regenaration by 20% When MP Below Half
+
+11. Mask of Deception
+	+20% Physical Resistance
+	>Nullify Lethal Damage For One Time (Cooldown: 12 Hours)
+
+12. Mask of Darkness (held by Demon Lord)
+	>Summon Dragon Priest, Serena
