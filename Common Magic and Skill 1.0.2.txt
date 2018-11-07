@@ -1,0 +1,195 @@
+Common Magic, Martial Art & Weapon Art (Incomplete)
+
++Character-specific/signature Magic and Skill aren't included. [BUY DLC!!! Wakakaka]
+
+
+--Common Magic--
++Every magic will increase in damage and lower in channelling as level progress
++Poison/Dark Elemental can be learned at high tier
++Ice Elemental can only be learned at advanced tier
++Flame Elemental is "Everyone Element"
++Earth Elemental is less popular among caster because it's muddy
++More will be add on next patch
+
+
+
+>Low Tier/Fundamental
++Can be cast by anyone with MP and magic/elemental affinity, any race at any level.
++No channelling time
++No damage
+-List:
+	-create water (waterpipe from hand)
+	-create fire (spark fire from finger)
+	-create light (lightball)
+	-create wind (small windwhirl on finger)
+	-create sand (small sand on finger)
+
+>Mid Tier
++Restricted to Mage class Only (or has Mage as fundamental class. Example: Battle Mage, Sorcerer, Summoner etc)
++Level 5+/10+
++Castable by all Races except Forest Elf
++Requires affinity to element
++Has channelling time
++Has damage
+-List:
+	Restoration			Destruction(Offensive)		Spritual
+	-Heal 				-Fireball			-Summon Low tier spirit
+					-Watergun
+					-Lighting Bolt (10+)
+					-Air Cutter (10+)
+					-Earhbind (10+)
+					-Rock/Sand Throw
+					-Fire Mine
+	
+
+>High Tier
++Restricted to Mage class Only (or has Mage as fundamental class. Example: Battle Mage, Sorcerer, Summoner etc)
++Level 20+
++Castable by all Races except Forest Elf
++Requires good affinity to element
++Poison and Dark Elemental unlocked 
++Has slightly more channelling time
++Has better damage
+-List:
+	Restoration			Destruction(Offensive)		Spiritual
+	-Healing Pulse			-Flaming Burst			-Summon High tier spirit
+					-Water Pulse
+					-Thunder Bolt
+					-Electro Ball
+					-Wind Blade
+					-Venom Drench
+					-Acid Spray
+					-Rock Slide
+					-Dazzling Gleam
+					-Dark Pulse
+					-Night Slash
+
+>Advanced Tier
++Restricted to Sorcerer, Battle Mage, Saint, and Paladin
++Level 40+
++Castable by all Races except Forest Elf
++Requires better affinity to element
++Ice Elemental unlocked (#LunaFavorite)
++Has increased channelling time
++Has bigger damage
+-List:
+	Destruction(Offensive)
+	-Ice Lance (Size depend on caster)
+	-Flame Blast
+	-Moon Blast (Night Only)
+	-Sandstorm
+	-Earthstone Edge
+	-Hydro Pump
+	-Shockwave Discharge
+
+
+>S Tier
++Restricted to Spellcaster, Saint, and Paladin
++No Level Restriction
++Castable by all Races except Forest Elf
++Requires advanced affinity to element
++Channeling time depending on caster
++Damage depending on caster
+-List:
+	-(Multiple) Ice Lance. (Example, Triple Ice Lance)
+	-Diamond Storm
+	-Earth Control
+	-Wind Shredder
+	-(Massive) Flaming Burst
+
+>SS Tier
++No Common Magic Yet Here.
+
+
+
+--Common Alteration(Buff) Magic--
++No Class Retriction as long as caster has enough MP
++Level 10+
++Castable by all Races except Forest Elf
++Requires understanding to magic concept
++Channeling time depending on caster (Mage-class has better casting speed)
+-List:
+	-Reinforce Armor (increase physical def)
+	-Warding Flesh (increase magical def)
+
+
+--Common Martial Art--
++Restricted to Knight-class Only (or has Knight as fundamental class. Example: Battle Mage, Blademaster, Guardian)
++No cost
++Has longer cooldown compared to magic.
+
+>Normal Tier
+-List:
+	-Iron Defense
+	-Extra Sensory (No flinch in medium time)
+	-Battlemind (Increase HP regeneration, decrease stamina regenation)
+
+>High Tier
+-List:
+	-Brave Heart (Paladin-Only)
+	-Demiplate Flesh (Damage resistance increase as HP decreasing. Stacks up to 40%)
+
+
+
+--Common Weapon Art--
++Restricted to Knight-class Only (or has Knight as fundamental class. Example: Battle Mage, Blademaster, Guardian)
++Castable to all weapon user.
++Usually cost stamina to cast (few use HP)
++Only few usable by Forest Elf
++A person limited to master 3 Arts only
++Same cooldown with magic
+
+>Normal Tier
+-List:
+	-Sucker Punch (flinching enemy)
+	-Airceleration (Increasing attack speed)
+	-Poisonization (Enhance weapon with chance to trigger poisoning debuff)
+	-Flamanization (Enhance weapon with flame element)
+
+>High Tier
+-List
+	-Shadowization (Enhance weapon with chance to trigger life steal)
+	-Aquanization: Weapon (Made weapon out of water. Example, Aquanization: Sword)
+	-Sharpening Strike (Increase critical chance rate)
+
+-------------------------------------------------------------------------------------------------------------------
+
+--Natural Borned Skill--
++Race-Specific Skill.
++No Level Restriction, Neither Class.
++No Cost
++High Cooldown Time (Usually Once a day use)
+
+>Phanterian
+-Adrenaline Burst [Active]
+	+Increase physical capabilities by 200%
+	-Put lot of stress on heart (reduce HP over time, causing dead when overused)
+
+>Elf (Forest)
+-Lyra's Blessing [Passive]
+	+Increase accuracy by 60% when using bow
+
+>Demi
+-Metamorphosis [Active]
+	+Become full demon, greatly increasing capabilities
+	-Using it for too long result in perma demon (leading to insanity)
+
+>Dwarf
+-Blacksmith Mastery [Passive]
+	+Increase Blacksmithing skill by 50%.
+
+>Orc
+-Pure Strength [Passive]
+	+Gain extra strength everytime leveled up
+
+>Elf
+-Refresh [Active]
+	+Fill manapool with 40% of max MP
+
+>Human
+-I'm a Human
+	+That's it. Nothing else.
+
+>Children of Akatosh
+-Dragon's Blessing [Special]
+	+Deal 2.0x damage to enemy
