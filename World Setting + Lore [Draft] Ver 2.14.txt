@@ -1,0 +1,333 @@
+--World Setting--
+Fantasy Mediaval mixed with a bit of Warring State (Sengoku Jidai).
+
+--World Lore [Beginning]--
+The world start from just a small star, then the bored Beelzebub got the idea of creating a "World".
+Thus, he created the world. In a world with nothing but the sky and land, he then create the Dragon.
+The Dragons given a task - to supervise the world that he created. A dragon then said "There are
+nothing in world for us to supervise". He doesn't answer, instead, he start to create a various 
+kind of living species. He start with the elf, orc, drawf, phanterian, and demi. He then drop monsters
+like a rain from the sky, he created Titan from the sand, Demon from the shadow, and Angel from the Light.
+He let the Mana flows within the world - enable the world to use Magic. Lastly, he created Human.
+
+Thousand year has passed, the Dragons doing their task as their were told to. Until one day, a war broken out
+between five major species - Human excluded. As a result, the major five reduced to four - removing demi.
+The world balance collapsed and choas happened. Thus, they start to act - The Dragon. They decided that the
+Major Four need to perish - thus, elimination begin. Obviously, Major Four on the disadvantage position.
+On the brink of losing, the Human stood up - leading the Major Four on their trial to survive. Human came up
+with various of clever plans, leaving The Dragon on surprise - thus, took their interest. Suddenly, one
+of the man -Human, start to make a conversation - a very first conversation between Dragon and Man. Man 
+conviced the Dragon to leave the world to them - the non-dragon species. The Dragons agreed with one
+condition -that They will appear again when the choas call them, the man agreed. Thus, the elimination ended. 
+
+There is no true record for this event.
+
+
+--World Lore [Current]--
+The world had already experienced its first Great War - a war between two big countries/alliances, a war that
+affecting all continents around the world both in good and bad way. With some sacrifices, the first Great War
+ended - almost ended -incompletely ended, but leaving the world in Cold War/Civil War. During this conflict
+era, a new threat shows up -A Demon Lord.
+
+
+--Species/Race--
+Human - currently has the most numbers of population among other species.
+      - live openly on village, cities, and big cities/capital.
+      - Race with most balanced stat
+
+Elf - numbers of population second to Human.
+    - live on big cities/capital.
+    - some live in the forest (different culture) 
+    - magic focused race (high manapool)
+    - has high affinity to magic
+    - there are exist manaless Elf but borned with high dexterity/agility
+
+Orc - has average number of population
+    - live on their on village (isolating themselves from human and elf)
+    - some live on cities with both elf and human live in it.
+    - excellent Tanker race, good fighter
+    - has the less manapool among other race
+    - gain extra strength stat everytime level up(bonus ranged from 0~3 depending on Luck)
+
+Phanterian - A humanoid species with cat-like ear, and tail.
+	   - has average population.
+	   - live on both cities and mountain.
+           - most agile Race
+           - dexterity/agility focused Race
+           - excellent at role for Thieves and Assassin
+           - has the ability "Moon Eye", to see in the dark
+           - female usually a main target to "Human Trafficking/Slavery(illegal)"
+
+Dwarf - myteriously dissapeared from the world/public(?)
+      - believed to be gone during the first Great War
+      - a species with great Blacksmith skill (used-to)
+      - used to live within the mountain/cave.
+      - leaving the world with their ruin for dungeon party to conquer.
+      - excellent tanker
+
+Demi - half human/elf and half demon.
+     - a race with agility like Phanterian and strength like Orc.
+     - believed to be perished during the Major Five War.
+     - currently has the most few population (near to non-exist)
+     - living place is unknown/random.
+     - borned with highest Magic Resistant
+     - Brawler and Berserker Class exist for this Race
+     - the higher the power, the lower the sanity
+
+
+--Forest Elf--
+Every elf borned with high affinity to magic and spellcraft. They're proud
+to be borned this way - believed they're the elite Race among others. However,
+there is rare case where elf borned manaless. The Elf Eldest believed this
+as a shame and would bring misfortune/disaster to the elf race - thus those
+who're manaless were exiled from their own population. The exiled elf later 
+start to make a new civilization within the forest.
+
+Angel Lyra who happened to be there saw everything that happened and feel
+pity to these exiled people. Lyra is a special angel that allowed to visit
+man's world and observes everything. After she saw what happened to the elf,
+she later asked permission from Beelzebub for her to bless the exiled elf.
+The heartless Beelzebub given his permission with one condition, Lyra will
+lose her special position and can no longer visit man's world. Lyra agreed
+with the condition.
+
+From this day, everytime Forest Elf use their bow for any purpose, the wind
+will be on their side. The elf called this as Lyra's Blessing and Lyra is
+called by new title - The Wind Goddess, Lyra.
+
+Forest Elf isn't actually borned with no mana pool at all but their MP
+considered smaller than typical elf. They got lowest affinity to magic,
+thus only able to cast low teir magic. However, forest elf borned with
+great agility and DEX/AGI stat, thus able to become a good Archer.
+
+
+
+--Mermaid--
+Sub-Race of Demi.
+
+Aqua is an Angel of Sea, the one who being in-charged of the sea. Like
+other angels, Aqua has a kind-hearted nature. Thus, everytime sailors
+lose their life on the seas, she'll felt sad. This continue for hundred
+of years and Aqua can only watch. Later she decided to stop watching
+and start to act.
+
+With the permission from Beelzebub, Demi had been choosen as Aqua's
+Agent - to guides sailor on the sea on her sted. This choosen Demi
+was mermaid family and their gladly accept the roles. Since this day,
+whenever there are sailors that lose their way on the sea or having
+their ship destroyed by the waves, Mermaid will shows up and save
+these people. Most people that saved by mermaid came from Human race.
+Thus, making human thinking that it's possible for every Races to
+help each other. Mermaid were kind to every people on the sea, doesn't
+matter which Race their came from.
+
+When Demi lost in the Major Five War, Mermaid decided to abandon their
+ancestor task - to protect the ocean- for the sake of their Race's
+survival. Mermaid hiding deep in the sea, guarding the entrace to
+the island where currently where Demi hiding.
+
+
+
+--Titan--
+The other name for them are The Protector. Each Races were given Titans,
+and each Titan will be given task to watch over these Races. Man has
+no control over the Titan. Titans were to acts and decides on its own.
+During the time they were un-needed, they will enter deep slumber and
+only wake up during the time they going to protect Race they were told
+to protect.
+
+Phanterian lost their Titan during the Major Five War. Orc lost their
+Titan during trial of survival from process of Elimination. Dwarf lost
+their Titan during the First Great War.
+
+
+
+--Major Five War/First Great War--
+Before the Era of Revolution, the world got no proper country - exist only area, Human Area, Elf Area etc.
+The contact between Races were extremely low. Each of them - except Human- believe that they're the best Race, 
+and the other Races should be superviced by them. This became one of the reason leading to Major Five War. The 
+biggest reason was "Fighting over land and resources", each Races want to own bigger land and economy than other 
+Races. This competetion ended up with sparking war between those five major races. This war result in world losed
+one of major race - Demi, the strongest race among all. Major Five War ended when Dragons decided to eliminated 
+these races.
+
+After the Process of Elimination ended, the man who lead the Trial of Survival was called hero and crowned as the
+first World Emperor - the first emperor came from Human race. Lead by the man's charismatic as a leader, the 
+world evolved into a new world - with new king system, a true Country was borned and followed by others. Thus, 
+many coutries was born. This era was called Era of Revolution as many new good things happened including 
+"DeCulture", to broke the wall of hatred among Races. However, the Era of Peace didn't last long. An accident 
+accoured where the Emperor had been assissinated by unknown rogues. People then start to fight over the crown. 
+This struggle of power later lead to First Great War. 
+
+
+
+--World's Event Timeline--
+Year 0~1 Phase of Nothingness
+
+Year 1~9 Phase of Sky and Land
+
+Year 10~100 Era of Dragon
+
+Year 101~102 Creation of other lifeforms.
+
+Year 103~1100 Era of Peace
+
+Year 1100~1102 Wind of conflict
+
+Year 1102~1105 Whistle of War
+
+Year 1105~1157 Major Five War
+
+Year 1158~1173 Trial of Survival
+
+Year 1173~1177 Era of Revolution
+
+Year 1177~2321 Era of Heroes/Peace
+
+Year 2322~2325 Emperor Assassination & A Power Struggle Between Major Empires
+
+Year 2325~2339 War Preparation
+
+Year 2340~2363 First Great War
+
+Year 2363~2365 Preperation for Peace
+
+Year 2366~2366 Great Accident
+
+Year 2367~2410 State of Armistice
+
+Year 2411~Current Era of Demon Lord.
+
+
+
+--Level Up/Stat--
+In this world, one can gain experience and leveling up by killing monster.
+If one join party and kill some monsters, the experience gained from the killing/quest
+will be distributed equally to everyone - experience won't be divided. By having a
+specific blessing, item, or passive skill, one can gain bonus EXP.
+
+During leveled up, a dim light will shine upon one's body - this light can only
+be seen by oneself and party member. After leveling up, one's stats will be
+increased randomly depending on Race, Class and Luck. At the same time, one
+will also gain unallocated stat ranged from 1~5 depending on Luck (2 is average).
+These stats will accumulated within one body as one continue to leveling up.
+In order to allocate these stats, one need to sleep and allocate them manually.
+Sleeping by unnatural cause (drunk, collapse, zero-mana . . ect) will result
+in these stat to be allocated automatically.
+
+To start a party, one just need to think of it and the party will automatically
+formed. To join a party, one will need a simple permission(in form of word) from
+a party leader and do a hand shake. To disband a party, leader just need to say it.
+To kick a party member, leader need to think of it and tell the kicked member.
+To leave a party, one just need to think of it.
+
+
+Strength - Increase physical damage and physical defense. The bonus damage and
+	   defense came from STR will be added to weapon and armor.
+
+Dexterity/Agility - Increase critical hit ,evasion rate and accuracy. Having a 
+		    higher DEX/AGI will lead to speed increases slightly. Some 
+		    Race/Class will use this as a damage decider instead of STR.
+
+Intelligent - Increase magical damage and mana pool/regen, slightly increasing
+	      magic defense. Having a Zero INT won't lead one to become
+	      stupid or insane, but will badly affect the magical damage and def.
+
+Vitality - Increase HP and Def (both magic and physical). The minimum value
+	   for VIT is 10.
+
+Luck - Has various kind of effect. Provide huge impact to stat allocation
+       during level up. Effecting the monster/boss drop. Effect the quality 
+       outcome during the "item/potion creation". Effect the bonus damage 
+       from critical hit.
+     - Luck can't be increase using unallocated stat. One will be borned
+       with specific value of Luck. One's Luck will sometimes change when
+       leveled up (usually increasing, rarely decreases).
+     - Blessing and buff can slighty increase Luck, while Curse and debuff
+       will minus Luck. Negative Luck will result in misfortune.
+
+
+--Monster Drop--
+Every dead monster will provide a crystal as a drop. The size of the crystal
+will be depend on the monster's size - very huge monster won't result in
+very big crystal, instead will provide multiple average-sized crystals. The
+color of the crystal will be depend on the monster's rarity.
+
+The crystal itself is not a true drop, instead all the drop items and golds
+are located inside the crystal - the crystal act as items container. It's
+possible for a small crystal to contain a huge Greatsword because the item
+is stored magically in there.
+
+Only the owner of the crystal will be able to "open" what stored inside.
+The ownership desicion will be made by "who did the last hit" - this is
+why "kill-steal" possible. The moment one touch the crystal, he/she will
+know what and how-much items stored in it. The owner just need to wish it
+in order to "open" the crystal. With the owner's permission, crystal
+ownership can be transfers.
+
+
+--Slavery--
+Slavery is illegal in this world but it still exist and still going-on.
+Although it's illegal but there is no clear law that protect people
+from it. Any party that trying or doing slavery will be capture and
+given punishment. However, the probability of victim will be saved
+from slavery bind is low.
+
+Every slave will be bind with "Slavery Binding" magic. With this magic,
+slave will have to obey every command from "Master". In order for this
+magic to worked, both party (slave and master) must be agree with this
+relationship. If any side of the party didn't agree with the relationship,
+the magic won't work. However, using a specific drug, the master can
+force the slave to agree with this relationship - resulting the magic
+to success. The ownership of the slave can be transfers.
+
+It's possible to cancel the Slavery Binding but at one condition - 
+it isn't three month yet. When the binding reached three months, it'll
+become permenant and has extremely low chance of success of dispelling.
+
+The binding form will shows up as a collor tattoo around the neck, it
+won't disappear until the magic dispelled. The offspring from the slave
+won't be affected by the binding.
+
+For various reason, slave doesn't have any place within the society.
+Slave cannot make their own decision and can't kill themselves - the
+collar will prevent them to do so. Thus, before punishment (usually
+death) is going to be given to the party that doing the slavery,
+Imperial Knight need to placed the slaves that left behind at a 
+suitable environment - so that they can at least life "normally".
+This is the main reason why Imperial Knights hate dealing with
+slavery case - searching a suitable place for them is quite
+hard thing to do.
+
+--Calender/Currency--
+This world has 12 total of months and every month has 30 total of days.
+Every name used on each months are belongs to Angel with unique and
+special background.
+
+Lyra (January) - Angel of Day and Night, worshipped by Forest Elf
+Fharsha (February) - Angel of Romance/Love.
+Meudora (March)
+Sibley (April)
+Maya (May)
+Irene (June) - Angel of Twilight, Twin to Irina. Worshipped by Demi.
+Irina (July) - Angel of Twilight, Twin to Irene. Worshipped by Demi.
+Laura (August)
+Philia (September)
+Obelia (October)
+Narcissa (November)
+Amira (December) [ Amanda "Amira" Sherwood, An Angel of Loyalty. She's belong to the final month of the year as 
+		   symbol of her loyalty - as she faithfully waiting for her beloved one to come before her. :) ]
+
+
+Eris is the current currency in this world. Eris is Angel of Fortune and people consider her blessing would bring
+good fortune to everyone. She is titled as Goddess of Richness by mankind.
+
+
+--Advanturer Licensing--
+
+>Continental Pro License (Hero, Demon Lord)
+>Continental A License (Imperial Knight Captain, Royalty Bodyguard)
+>National A (The highest level usually attained by an advanced advanturer)
+>National B (average)
+>National C (majority of the registered advanturer)
+>Amateur (starting point)

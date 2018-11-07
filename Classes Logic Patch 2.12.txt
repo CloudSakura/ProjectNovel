@@ -1,0 +1,131 @@
+[Still in Draft]
+
+--Exist Class--
+
+Advanturer - One of the fundamental Class. This is the lowest class among others. This class can't evolve
+	     but the user will be able to "Job Change" depending on current stat. The advantage of this
+	     class is to be able to use all Skill and Magic without Class Restriction, however they still
+	     need to satisfy the Stat Requirement.
+
+Mage -	One of the fundamental Class root. This Class later can evolve to Healer, Sorcerer, Summoner or 
+	combined with other fundamental Class to evolve to new advanced Class.
+
+Knight - One of the fundamental Class root. This class focus on close-ranged battle. It can later evolve
+	 to BladeMaster, Battle Mage(Combined with mage), Brawler . . ect.
+
+Archer - Fundamental Class. A ranged-type physical damage dealer. NOTE: The best archers among all came
+	 from "forest" elf bcus they're borned with Talent as an Archer and got the Blessing of Wind
+	 Goddess, Lyra.
+
+Thieves - Most likely a non-combantant Class. They have the ability of self-defense but not as good as
+	  the other classes. This class has special ability of "Stealth", to move without being detected.
+	  This Class is good with Trap Detection and avoiding dangerous monsters in the dungeon, thus can
+	  act as a Scout before a dungeon parties begin their quest. This Class is a fundamental class
+	  to Assassin.
+
+Guardian - A Heavy-Armored tank class. Evolve from Knight.
+
+Assassin - A stealth killer class. There are various type of Assassin, some use melee weapon, other use
+	   ranged, or even magic and poison. Assassin evolved from Knight, Archer, Mage and Combined with Thieves. 
+
+Blademaster - Evolved from Knight Class. This class use less Magic compared with other melee-classes. On the other
+	      hand, this Class has a good damage output from melee attack and good with close-range combat. This
+	      class can use all type of melee weapon (Battle Mage has limited weapon choice) + Able to use Crossbow.
+	      It's quite easy to master this class, thus most of Emperial Knight will choose this as their Class. 
+
+Battle Mage - A combination classes of Mage and Knight. This class is the most well-balanced class among all.
+	      The user can fight at close-ranged using melee weapon such as sword, greatsword or axe, and at
+	      the same time fighting at long range using various kind of offensive spells. This class also enable
+	      its user to use some of self-buff spells.
+
+Cleric	- A defensive-type of Battlemage. Rather than focusing on offensive spell/buff, this class
+	  mainly functioning as a Healer and defensive buff caster. Depending on situation, this class
+	  can act as temporary tank. This class use Heavy Armor.
+
+GhostBlade - A assassin-type of Battlemage. More powerful than the typical Asassin class. During party battle,
+	     this class can act as a AoE positive buff provider for team or cast a AoE negative buff to put
+	     enemies on the disadvantage position. This class use Light Armor.
+
+Brawler - A Knuckle-only Class, unable to use other type of weapon + limited long ranged offensive Magic. However,
+	  this Class has the highest Evasion Rate after Archer and Assassin. The typical fighting style of this Class
+	  is to evade while landing attack. This class evolved from Knight.
+
+Ranger - An Archer Class with Knight as Sub Class. While extremely good with long-ranged attack, this Class also can
+	 fight at close-ranged combat. This class can use all type of ranged weapon(Physical Type).
+
+Healer - Support Class. Evolved from mage.
+
+Priest - Better version of Healer. Able to do both purify negative buff and healing. This Class enable its user
+	 to provide team buff for party member.
+
+Summoner - Evolved from Mage. Instead of fighting alone, this Class channel their magic to summon Magical Being
+	   to assist them in battle. Most magics cast by Summoner are to support and streghten their Magical Being.
+
+Sorcerer - Better version of Mage. Specialist on using offensive magic.
+
+ArcPriest - SS-Level of Priest Class. This class able to temporarily enter Ethereal Form, to ignore all physical
+	    damage but in return recieved extra damage from magic-type damage.
+
+SpellCaster - SS-Level Mage Class. This class evolved from Sorcerer and able to use all kind of high teir Offensive
+	      Magic. 
+
+Crusader - SS-Level Tank Class. Has a better damage output than Guardian and of course is able to withstand more damage
+	   compared with other tank Classes.
+
+Berserker - SS-Level Offensive melee Class. A combination Classes of Brawler and Assassin. A very rare Class. Unlike a
+	    typical Assassin, instead "Stealth"  this Class will do face-to-face type of battle. Damage output came from
+	    this class is near to Paladin, however this Class has "Zero Defense". Thus, user has to avoid all attack while
+	    dealing damage to opponent. This is why this class is rare compared with other, it's really hard to master.
+	    NOTE: This Class sacrafice all defense for power.
+
+Paladin - SSS-Level Class. This class is extremely good with both offense and defense. One must be be able to master
+	  Battle Mage, Cleric, Ghostblade, and Crusader at the same in order to achieve Paladin. This is the hardest
+	  Class to master, thus has a very few numbers of user.
+
+Saint - SSS-Level Support Class. This Class able to use all Skills and Magics used by Arc Priest. Has extremely huge
+	AoE Healing/Purify Magic. Enable its user to use Resurrection Spell, to revive dead people limited to 5 person
+	per day. The strongest Saint(Valerica) able to revive 29 person per day (actually 30 but she always save the 
+	extra 1 for her beloved younger sister). Resurrection Spell won't work to those who already reached their
+	life span.
+	Able to Purify both Venomancer and Necromancer spell.
+	Only those who came from Noble Bloodline and blessed with Saint Blessing will be able to become Saint.
+	Just like Paladin, this Class has very few numbers of user.
+	This Class is limited to Human and Elf only (Racist LOL . .blame Bal)
+
+
+
+--Hidden Class--
+
+Venomancer - Poison expert. Able to summon and control Miasma Banshee.
+
+Necromancer - Zombie expert. Able to summon and control Death Golem.
+
+ShadowBlade - Dark-type of Battle Mage. Able to use Forbidden Dark Skills.
+
+Dragon Priest - An experimental Class made by Bal (LOL)
+
+Demon Lord - A Dark-Type Class of Paladin.
+
+Succubus - Uhhmm . .is this even a Class? (Nope, this is a Demi. Patch 2.12)
+
+Deadric Princess(?) - Corrupted version of Saint
+
+
+
+--In-Coming Class--
+
+FateSeeker - Colin-only special Class. Evolved from Advanturer Class. With Bal's Blessing, the user will be able to use
+	     all kind of weapon and relic ignoring the Class Restriction. Rarely, the user will be able to Summon Dragon
+	     (random tiers) to fight along side with him.
+
+Mystic - Luna-only special Class. This Class is the combination of SpellCaster and Saint. Extremely good on both offensive
+	 and support role.
+
+Druid - A Class borned from Alduin(?)'s boredom.
+
+BloodSeeker - Syndicate's Big Boss's Class.
+
+
+--No-Go Class--
+
+Duelist - Redundant with Assassin. (sigh!)
